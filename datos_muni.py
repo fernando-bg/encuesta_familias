@@ -7,21 +7,21 @@ Created on Tue May 11 22:58:16 2021
 """
 
 
-proyecto = 'Mejoramiento de los Servicios de Comercialización del Mercado del Cono Sur de la Zona Industrial Talara Alta, Distrito de Pariñas, Provincia de Talara, Departamento de Piura'
+proyecto = 'Mejoramiento de los Servicios de Comercialización del Mercado Modelo La Parada, Distrito de Pariñas, Provincia de Talara, Departamento de Piura'
 
 # Encuestadores
 
 lista_encuestadores =  [
     {'label':'KARINA ROXANA SILVA MERINO', 'value':'43070962'},
-    {'label':'MARIA FERNANDEZ GOMEZ GIL', 'value':'71223239'},
-    {'label':'SOFIA CHIRINOS SIANCAS', 'value':'72121913'},
+    {'label':'CAROLINA MARTINEZ CALDERON', 'value':'42181054'},
+    {'label':'TIFFANI LITANO CABANILLAS', 'value':'72919131'},
     {'label':'DANDER HENRY MARTINEZ CALDERON', 'value':'43396264'},
-    {'label':'CYNTHIA ARAMBULO ZEGARRA', 'value':'41507780'},
+    {'label':'SOFIA CHIRINOS SIANCAS', 'value':'72121913'},
     {'label':'VANESSA YACKELINE ESPINOZA RETO', 'value':'40433028'},
-    {'label':'MARILYN CASTRO MORALES DE OLIVA', 'value':'03854540'},
-    {'label':'ANGELA MELINA RUIZ PALACIOS', 'value':'74084980'},
-    {'label':'MARIA ELIZABETH SILVA MERINO', 'value':'45300361'},
-    {'label':'MIRTHA ZAVALA ESPINOZA', 'value':'72650688'}
+    {'label':'ROSA ELVIRA COVEÑAS FRANCO', 'value':'44347157'},
+    {'label':'MIRTHA ZAVALA ESPINOZA', 'value':'72650688'},
+    {'label':'LEYDY ESTEFANY SILVA MORALES', 'value':'76436965'},
+    {'label':'MARIA ELIZABETH SILVA MERINO', 'value':'45300361'}
     ]
 
 
