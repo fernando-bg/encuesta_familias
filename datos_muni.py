@@ -7,7 +7,7 @@ Created on Tue May 11 22:58:16 2021
 """
 
 
-proyecto = 'Mejoramiento y Ampliación del Servicio de Comercialización del Mercado Central de Catacaos, Distrito de Catacaos, Provincia de Piura, Departamento de Piura'
+proyecto = 'Creacion de los Servicios de Comercializacion de productos de primera necesidad en la localidad de Cercado Querocoto del Distrito de Querocoto, Chota - Cajamarca'
 
 # Encuestadores
 
