@@ -277,10 +277,10 @@ def grabar_reg(lista_total, cols, vals):
     #conexion = psycopg2.connect(host='localhost', database='encuesta', user='postgres', password='ingresar') #entrar
     
     conexion = psycopg2.connect(
-    host='ec2-18-207-95-219.compute-1.amazonaws.com', 
-    database='d9a3ij616gcmoa', 
-    user='dyzhcvdvjugzsi', 
-    password='3983489fc52c8cccf8219446d14be14ca806e5bb826cbcc4008bf740d19f098d')
+    host='ec2-52-2-245-64.compute-1.amazonaws.com',
+    database='d3qmb10bfklemh',
+    user='fzzzmpxzzcormw',
+    password='a1c07dd204ef416b94980e04a34a171a3a396236df08c24da86c709ca8729ff0')
     
     cursor1 = conexion.cursor()
     sql = 'INSERT INTO tabla_encuesta ('+ cols + ') VALUES (' + vals +')'
