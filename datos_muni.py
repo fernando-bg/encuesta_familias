@@ -12,17 +12,17 @@ proyecto = 'Creacion de los Servicios de Comercializacion de productos de primer
 # Encuestadores
 
 lista_encuestadores =  [
-    {'label':'YAJAIRA VILLAFUERTE PAICO', 'value':'71244026'},
-    {'label':'FRÉDY JULIO MEJÍA ASCARATE', 'value':'48278977'},
-    {'label':'PABLO AGUSTIN ELIAS CHERO', 'value':'71992561'},
-    {'label':'MILAGROS LIZBETH AQUINO MORALES', 'value':'76075824'},
-    {'label':'LUCY JACKELINE VIGIL PERALTA', 'value':'76333455'},
-    {'label':'DANIEL FERNANDO MORE LABRIN', 'value':'73673785'},
-    {'label':'JAVIER ALEJANDRO DURAND BURNEO', 'value':'76629305'},
-    {'label':'LIZETH IRENE CUEVA GÓMEZ', 'value':'40636760'}
+    {'label':'ROYER HUMBERTO TARRILLO DELGADO', 'value':'71822624'},
+    {'label':'YULI CASTRO SÁNCHEZ', 'value':'74144127'},
+    {'label':'JESÚS ANSELMO MEDINA VALDERRAMA', 'value':'71572782'},
+    {'label':'MILAGROS SANTA CRUZ CORRALES', 'value':'71572807'},
+    {'label':'ANA ABIGAIL ALTAMIRANO SILVA', 'value':'60323779'},
+    {'label':'CRISTHIAN BURGA AVELLANEDA', 'value':'60298623'},
+    {'label':'JOSÉ RICARDO FERNÁNDEZ TARRILLO', 'value':'74873907'},
+    {'label':'MARIA LEYLE PÉREZ GUEVARA', 'value':'60298634'}
     ]
 
 
 lista_supervisores =  [
-    {'label':'LIZETH IRENE CUEVA GÓMEZ', 'value':'40636760'}
+    {'label':'ROYER HUMBERTO TARRILLO DELGADO', 'value':'71822624'}
     ]
