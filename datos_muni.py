@@ -7,22 +7,25 @@ Created on Tue May 11 22:58:16 2021
 """
 
 
-proyecto = 'Creacion de los Servicios de Comercializacion de productos de primera necesidad en la localidad de Cercado Querocoto del Distrito de Querocoto, Chota - Cajamarca'
+proyecto = 'Mejoramiento y Ampliación del Mercado de Abastos en Morropón, distrito de Morropón, provincia de Morropón, departamento de Piura'
 
 # Encuestadores
 
 lista_encuestadores =  [
-    {'label':'ROYER HUMBERTO TARRILLO DELGADO', 'value':'71822624'},
-    {'label':'YULI CASTRO SÁNCHEZ', 'value':'74144127'},
-    {'label':'JESÚS ANSELMO MEDINA VALDERRAMA', 'value':'71572782'},
-    {'label':'MILAGROS SANTA CRUZ CORRALES', 'value':'71572807'},
-    {'label':'ANA ABIGAIL ALTAMIRANO SILVA', 'value':'60323779'},
-    {'label':'CRISTHIAN BURGA AVELLANEDA', 'value':'60298623'},
-    {'label':'JOSÉ RICARDO FERNÁNDEZ TARRILLO', 'value':'74873907'},
-    {'label':'MARIA LEYLE PÉREZ GUEVARA', 'value':'60298634'}
+    {'label':'ANGIE NICOLLE QUIROGA RAMIREZ', 'value':'73436993'},
+    {'label':'JAIR MARIN AGUIRRE LÓPEZ', 'value':'74374252'},
+    {'label':'NADIA YVETTE FARFÁN PEÑA', 'value':'73436935'},
+    {'label':'LESLIE CECILIA VINCES SILVA', 'value':'73474994'},
+    {'label':'ALESSANDRA CORNEJO ARREATEGUI', 'value':'75804138'},
+    {'label':'RUBBY ARELY RIVERA MONTENEGRO', 'value':'73473434'},
+    {'label':'MARÍA EUFEMIA RUIZ RAMÍREZ', 'value':'72751880'},
+    {'label':'FABIO JUNIOR VERAMATUS MASÍAS', 'value':'74370605'},
+    {'label':'ALEJANDRO FRANCISCO CAMPOVERDE CHIRA', 'value':'71719495'},
+    {'label':'YOVANA DEL CARMEN GARAY PEÑA', 'value':'73474141'},
+    {'label':'ELQUI ESTER VALENCIA GUERRERO', 'value':'76449809'}
     ]
 
 
 lista_supervisores =  [
-    {'label':'ROYER HUMBERTO TARRILLO DELGADO', 'value':'71822624'}
+    {'label':'ELQUI ESTER VALENCIA GUERRERO', 'value':'76449809'}
     ]
