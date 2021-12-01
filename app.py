@@ -192,19 +192,13 @@ lista14 = [
 
 # Lugar de compra
 lista15 = [
-    {'label':'Mercado San Pedro', 'value':'minorista1'},
-    {'label':'Mercado Casccaparo', 'value':'minorista2'},
-    {'label':'Mercado Rosaspata', 'value':'minorista3'},
-    {'label':'Mercado San Blas', 'value':'minorista4'},
-    {'label':'Mercado Tica Tica', 'value':'minorista5'},
-    {'label':'Mercado Virgen Natividad', 'value':'minorista6'},
-    {'label':'Mercado El Pueblo', 'value':'minorista7'},
-    {'label':'Mercado Ccolloryti', 'value':'minorista8'},	
-    {'label':'Mercado mayorista', 'value':'mayorista'},
+    {'label':'Mercado Minorista Morropón', 'value':'minorista'},
+    {'label':'Mercado Mayorista', 'value':'mayorista'},
+    {'label':'Tienda/Bodega', 'value':'tienda/bodega'},
+    {'label':'Minimarket', 'value':'minimarket'},
     {'label':'Feria', 'value':'feria'},
-    {'label':'Distribuidora', 'value':'distribuidora'},
-    {'label':'Otros', 'value':'otros'},
-    {'label':'Seleccione lugar de abastecimiento...', 'value':'0'}
+    {'label':'Otro', 'value':'otro'},
+    {'label':'Seleccione tipo de mercado...', 'value':'0'}
     ]
 # Importante, añadir las nuevas alternativas en el lugar de compra
 
